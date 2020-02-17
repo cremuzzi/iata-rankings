@@ -1,3 +1,3 @@
-# Passport Index Visualizer
+# IATA Passport Rankings
 
-Visualization based on the [original data source](https://www.henleypassportindex.com/). 
+Data analysis based on the [original data source](https://www.henleypassportindex.com/). 
